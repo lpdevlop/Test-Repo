@@ -1,0 +1,23 @@
+1) Why is AWS more economical than traditional data centers for applications with varying compute
+workloads?
+A) Amazon EC2 costs are billed on a monthly basis.
+B) Users retain full administrative access to their Amazon EC2 instances.
+C) Amazon EC2 instances can be launched on demand when needed.
+D) Users can permanently run enough instances to handle peak workloads.
+2) Which AWS service would simplify the migration of a database to AWS?
+A) AWS Storage Gateway
+B) AWS Database Migration Service (AWS DMS)
+C) Amazon EC2
+D) Amazon AppStream 2.0
+3) Which AWS offering enables users to find, buy, and immediately start using software solutions in their
+AWS environment?
+A) AWS Config
+B) AWS OpsWorks
+C) AWS SDK
+D) AWS Marketplace
+4) Which AWS networking service enables a company to create a virtual network within AWS?
+A) AWS Config
+B) Amazon Route 53
+C) AWS Direct Connect
+D) Amazon Virtual Private Cloud (Amazon VPC)
+
