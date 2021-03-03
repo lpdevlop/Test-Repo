@@ -20,4 +20,14 @@ A) AWS Config
 B) Amazon Route 53
 C) AWS Direct Connect
 D) Amazon Virtual Private Cloud (Amazon VPC)
-
+5) Which of the following is an AWS responsibility under the AWS shared responsibility model?
+A) Configuring third-party applications
+B) Maintaining physical hardware
+C) Securing application access and data
+D) Managing guest operating systems
+6) Which component of the AWS global infrastructure does Amazon CloudFront use to ensure low-latency
+delivery?
+A) AWS Regions
+B) Edge locations
+C) Availability Zones
+D) Virtual Private Cloud (VPC)
